@@ -37,5 +37,5 @@ Windows amd64: https://github.com/xnaveira/getotp/blob/master/release/getotp-win
 
 ````
  export OTP_SECRET=YOURSECRET
-./getotp
+getotp
 ````
