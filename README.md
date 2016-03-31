@@ -31,3 +31,11 @@ Mac: https://github.com/xnaveira/getotp/blob/master/release/getotp-mac-amd64
 Windows 386: https://github.com/xnaveira/getotp/blob/master/release/getotp-windows-386.exe
 
 Windows amd64: https://github.com/xnaveira/getotp/blob/master/release/getotp-windows-amd64.exe
+
+
+### To use:
+
+````
+ export OTP_SECRET=YOURSECRET
+./getotp
+````
